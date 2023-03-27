@@ -9,7 +9,7 @@
 ## Datasets:
 
 * CrowS-Pairs Bias (Nangia el al 2020)
-* WinoGender Bais (Rudinger el al 2018)
+* WinoGender Bias (Rudinger el al 2018)
 
 ## Contact
 
