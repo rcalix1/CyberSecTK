@@ -1,10 +1,10 @@
 ## An AI toolkit for Cyber Security
 
 * Token Frequency attack testing
-* Transfr learning image conversion 
-* adding datasets
-* feature extraction
-* standard classifiers
+* Transfer learning image conversion 
+* Cyber datasets
+* Cyber feature extraction
+* Standard classifiers
 
 ## Contact
 
