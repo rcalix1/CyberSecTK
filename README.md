@@ -10,6 +10,7 @@
 
 * CrowS-Pairs Bias (Nangia el al 2020)
 * WinoGender Bias (Rudinger el al 2018)
+* Truthful QA (Lin et al 2021)
 
 ## Contact
 
